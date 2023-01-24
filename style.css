@@ -1,0 +1,28 @@
+* {
+  margin: 0; }
+
+.side-bar {
+  width: 250px;
+  height: 100vh;
+  background-color: antiquewhite;
+  padding-top: 50px; }
+
+.d-flex {
+  display: flex;
+  justify-content: flex-end;
+  flex-direction: row-reverse; }
+
+li {
+  margin-bottom: 20px;
+  font-size: 30px; }
+
+main {
+  justify-content: space-between;
+  width: 800px;
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: 20px; }
+  main div {
+    width: 350px; }
+
+/*# sourceMappingURL=style.css.map */
