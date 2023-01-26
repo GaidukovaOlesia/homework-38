@@ -245,7 +245,7 @@ const productItems = [
 
 ];
 
-// const wrapper = document.querySelector(".wrapper");
+
 const divFlex = document.querySelector(".d-flex");
 const modalContainer = document.querySelector(".modal-container");
 const modal = document.querySelector(".modal");
@@ -278,7 +278,7 @@ function renderProduct(productItems) {
         aside.append(ul);
 
         li.addEventListener("click", () => {
-
+                main.innerHTML = "";
                 product.products.forEach(item => {
                 const div = document.createElement("div");
                 const img = document.createElement("img");
@@ -292,6 +292,8 @@ function renderProduct(productItems) {
 
 
         div.addEventListener("click", () => {
+                card.innerHTML = "";
+
                 const cardContainer = document.createElement("div");
                 const img = document.createElement("img");
                 const name = document.createElement("h3");
