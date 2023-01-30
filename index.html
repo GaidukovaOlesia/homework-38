@@ -13,6 +13,61 @@
 <div class="wrapper">
     <div class="d-flex">
     </div>
+
+
+
+    <form class="d-none" name="form" id="form">
+        <div class="form-field">
+            <label for="name"><b>ПІБ</b></label>
+                <input name="nameInput" type="text" id="name" placeholder="ПІБ">
+                <small></small>
+        </div>
+
+        <div class="form-field">
+            <label for="city"><b>Місто</b></label>
+                <select id="city">
+                    <option id="kiev" value="Київ">Київ</option>
+                    <option id="dnepr" value="Дніпро">Дніпро</option>
+                    <option id="lviv" value="Львів">Львів</option>
+                    <option id="odesa" value="Одеса">Одеса</option>
+                    <option id="harkiv" value="Харків">Харків</option>
+                    <option id="chernivci" value="Чернівці">Чернівці</option>
+                    <option id="mykolaiv" value="Миколаїв">Миколаїв</option>
+                </select>
+            <small></small>
+        </div>
+
+        <div class="form-field">
+            <label for="sklad"><b>Номер складу НП</b></label>
+            <input name="skladNP" type="number" id="sklad" placeholder="Введіть номер складу Нової пошти">
+            <small></small>
+        </div>
+
+        <div class="form-field">
+            <label for="pay"><b>Оберіть варіант оплати </b></label>
+                <select id="pay">
+                    <option id="card" value="Передплата ">Передплата карткою</option>
+                    <option id="cash" value="Післясплата">Післясплата на НП</option>
+                </select>
+
+        </div>
+
+        <div class="form-field">
+            <label><b>Кількість</b></label>
+            <input name="count" type="number" id="count" placeholder="Введіть кількість обраного товару">
+            <small></small>
+
+        </div>
+        <div class="form-field">
+            <label for="comment"><b>Коментар до замовлення</b></label>
+            <textarea id="comment"></textarea>
+        </div>
+
+
+        <button type="submit" id="button"><b>Купити</b></button>
+
+    </form>
+
     <div class="modal-container d-none">
         <div class="modal"></div>
     </div>

@@ -76,7 +76,8 @@ main {
     margin: auto;
     background-color: cornflowerblue;
     font-size: 20px;
-    margin-bottom: 10px; }
+    margin-bottom: 10px;
+    border-radius: 5px; }
     .card-container button:hover {
       background-color: rgba(73, 73, 211, 0.99); }
 
@@ -93,17 +94,71 @@ main {
   align-items: center; }
 
 .modal {
-  width: 500px;
-  height: 2em;
+  width: 800px;
+  height: 180px;
   padding: 20px;
-  background-color: #795f5f;
+  background-color: white;
   border-radius: 10px; }
-  .modal p {
-    font-size: 30px;
-    text-align: center;
-    margin-bottom: 20px; }
+
+table {
+  display: block;
+  border-collapse: collapse;
+  border-spacing: 0;
+  margin: auto;
+  width: 100%; }
+
+th, td {
+  padding: 10px 20px;
+  border: 1px solid #000;
+  font-size: 20px;
+  border-radius: 5px; }
 
 .d-none {
   display: none; }
+
+form {
+  width: 250px;
+  margin: 20px auto;
+  border: solid 2px gray;
+  box-shadow: 5px 5px 5px gray;
+  border-radius: 5px;
+  padding: 30px; }
+  form label {
+    margin-bottom: 10px; }
+  form input {
+    display: block;
+    margin-bottom: 20px;
+    width: 100%; }
+  form button {
+    display: block;
+    margin: 0 auto 10px;
+    width: 70px;
+    background-color: cornflowerblue;
+    font-size: 16px;
+    border-radius: 5px; }
+    form button:hover {
+      cursor: pointer;
+      background-color: #3368c0; }
+
+.form-field {
+  margin-bottom: 15px; }
+
+.form-field input:focus {
+  outline: none; }
+
+.form-field.error input {
+  border-color: red;
+  box-shadow: 2px 2px 2px red; }
+
+.form-field.success input {
+  border-color: green;
+  box-shadow: 2px 2px 2px green; }
+
+.form-field.success select {
+  border-color: green;
+  box-shadow: 2px 2px 2px green; }
+
+.form-field small {
+  color: red; }
 
 /*# sourceMappingURL=style.css.map */

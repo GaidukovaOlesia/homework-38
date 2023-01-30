@@ -9,37 +9,37 @@ const productItems = [
                     img: "images/computer/artline.jfif",
                     name: "Компьютер Artline Gaming X51 v07 (X51v07)",
                     description: "Intel Core i5-10400F (2.9 - 4.3 ГГц) / RAM 16 ГБ / HDD 1 ТБ + SSD 240 ГБ / nVidia GeForce GTX 1660, 6 ГБ / без ОД / LAN / без ОС",
-                    price: "28 499 ₴",
+                    price: "28499 ₴",
                 },
                 {
                     img: "images/computer/asus.jfif",
                     name: "Компьютер Asus S500MC-5114000460",
                     description: "Intel Core i5-11400 (2.6 - 4.4 ГГц) / RAM 16 ГБ / SSD 512 ГБ / nVidia GeForce RTX 3060, 12 ГБ / без ОД / LAN / без ОС",
-                    price: "35 499 ₴",
+                    price: "35499 ₴",
                 },
                 {
                     img: "images/computer/lenovo.jfif",
                     name: "Компьютер Lenovo IdeaCentre G5 Gaming",
                     description: "AMD Ryzen 5 5600G (3.9 - 4.4 ГГц) Zen 3 / RAM 16 ГБ / HDD 1 ТБ + SSD 256 ГБ / nVidia GeForce GTX 1650 Super, 4 ГБ / без ОД / LAN / Wi-Fi / Bluetooth / без ОС",
-                    price: "23 999 ₴",
+                    price: "23999 ₴",
                 },
                 {
                     img: "images/computer/cobra.jfif",
                     name: "Компьютер COBRA Advanced (A36.16.S4.166S.6142)",
                     description: "AMD Ryzen 5 3600 (3.6 - 4.2 ГГц) / RAM 16 ГБ / SSD 480 ГБ / nVidia GeForce GTX 1660 Super, 6 ГБ / без ОД / LAN / Linux",
-                    price: "45 999 ₴",
+                    price: "45999 ₴",
                 },
                 {
                     img: "images/computer/artline1.jfif",
                     name: "Компьютер ARTLINE Overlord H1v57w",
                     description: "Intel Core i5-12400F (2.5 - 4.4 ГГц) / RAM 16 ГБ / SSD 1 ТБ / nVidia GeForce RTX 3060, 12 ГБ / без ОД / LAN / без ОС / белый с черным",
-                    price: "41 999 ₴",
+                    price: "41999 ₴",
                 },
                 {
                     img: "images/computer/qube.jfif",
                     name: "Компьютер QUBE Игровой QB R i5",
                     description: "Intel Core i5-10400F (2.9 - 4.3 ГГц) / RAM 16 ГБ / HDD 1 ТБ + SSD 240 ГБ / nVidia GeForce RTX 3060, 12 ГБ / без ОД / LAN / без ОС",
-                    price: "37 899 ₴",
+                    price: "37899 ₴",
                 },
 
             ],
@@ -64,7 +64,7 @@ const productItems = [
                         "Apple A14 Bionic\n" +
                         "Разрешение дисплея\n" +
                         "2532x1170\n",
-                    price: "29 899 ₴",
+                    price: "29899 ₴",
                 },
                 {
                     img: "images/smartphone/apple13.jfif",
@@ -81,7 +81,7 @@ const productItems = [
                         "Apple A14 Bionic\n" +
                         "Разрешение дисплея\n" +
                         "2532x1170\n",
-                    price: "36 899 ₴",
+                    price: "36899 ₴",
                 },
                 {
                     img: "images/smartphone/apple14.jfif",
@@ -98,7 +98,7 @@ const productItems = [
                         "Apple A14 Bionic\n" +
                         "Разрешение дисплея\n" +
                         "2532x1170\n",
-                    price: "37 899 ₴",
+                    price: "37899 ₴",
                 },
                 {
                     img: "images/smartphone/samsungM13.jfif",
@@ -115,7 +115,7 @@ const productItems = [
                         "Apple A14 Bionic\n" +
                         "Разрешение дисплея\n" +
                         "2532x1170\n",
-                    price: "9 899 ₴",
+                    price: "9899 ₴",
                 },
                 {
                     img: "images/smartphone/samsungM23.jfif",
@@ -132,7 +132,7 @@ const productItems = [
                         "Apple A14 Bionic\n" +
                         "Разрешение дисплея\n" +
                         "2532x1170\n",
-                    price: "22 599 ₴",
+                    price: "22599 ₴",
                 },
                 {
                     img: "images/smartphone/samsungM53.jfif",
@@ -149,7 +149,7 @@ const productItems = [
                         "Apple A14 Bionic\n" +
                         "Разрешение дисплея\n" +
                         "2532x1170\n",
-                    price: "14 899 ₴",
+                    price: "14899 ₴",
             },
             ],
         },
@@ -163,37 +163,37 @@ const productItems = [
                     img: "images/tablet/apple10.jfif",
                     name: "Планшет Apple iPad 10.2 2021 Wi-Fi 64GB",
                     description: `Экран 10.2" IPS (2160x1620) MultiTouch / Apple A13 Bionic (2.65 ГГц) / 64 ГБ встроенной памяти / Wi-Fi / Bluetooth 4.2 / основная камера 8 Мп, фронтальная - 12 Мп / iPadOS 15 / 487 г / серебристый`,
-                    price: "16 899 ₴",
+                    price: "16899 ₴",
                 },
                 {
                     img: "images/tablet/lenovo.jfif",
                     name: "Планшет Lenovo Tab M10 HD (2nd Gen)",
                     description: `Экран 10.61" IPS (2000x1200), MultiTouch / Qualcomm Snapdragon 680 (2.4 ГГц + 1.9 ГГц) / RAM 4 ГБ / 128 ГБ встроенной памяти + microSD / Wi-Fi / Bluetooth 5.1 / основная камера 8 Мп + фронтальная - 8 Мп / GPS / ГЛОНАСС / Android 12 / 465 г / серый`,
-                    price: "10 899 ₴",
+                    price: "10899 ₴",
                 },
                 {
                     img: "images/tablet/apple11.jfif",
                     name: "Планшет Apple iPad 11 2021 Wi-Fi 64GB",
                     description: `Экран 11" Liquid Retina (2388x1668) MultiTouch / Apple M2 / 128 ГБ встроенной памяти / Wi-Fi / Bluetooth 5.3 / основная двойная камера 12 Мп + 10 Мп, фронтальная - 12 Мп / iPadOS 16 / 466 г / космический серый`,
-                    price: "41 499 ₴",
+                    price: "41499 ₴",
                 },
                 {
                     img: "images/tablet/huawei.jfif",
                     name: "Планшет Huawei MatePad 10.4 2nd Gen 4+128",
                     description: `Экран 10.4" IPS (2000x1200) MultiTouch / HiSilicon Kirin 710A (2.0 ГГц + 1.7 ГГц) / RAM 4 ГБ / 128 ГБ встроенной памяти + microSD / Wi-Fi / Bluetooth 5.1 / основная камера 13 Мп, фронтальная 8 Мп / GPS / ГЛОНАСС / Harmony OS 2.0 / 450 г / серый`,
-                    price: "16 899 ₴",
+                    price: "16899 ₴",
                 },
                 {
                     img: "images/tablet/realMe.jfif",
                     name: "Планшет RealMe Pad 10.4 6/128",
                     description: `Экран 10.4" IPS (2000х1200) MultiTouch / MediaTek Helio G80 (2.0 ГГц) / RAM 6 ГБ / 128 ГБ встроенной памяти + microSD (до 1 ТБ) / Wi-Fi / Bluetooth / основная камера 8 Мп + фронтальная 8 Мп / GPS / ГЛОНАСС / поддержка 2-х СИМ-карт / Android 11 / 440 г / серый`,
-                    price: "10 499 ₴",
+                    price: "10499 ₴",
                 },
                 {
                     img: "images/tablet/samsung.jfif",
                     name: "Планшет Samsung Galaxy Tab A8 10.5",
                     description: `Экран 10.4" TFT (2000x1200) MultiTouch / Qualcomm Snapdragon 720G (2.3 ГГц + 1.8 ГГц) / RAM 4 ГБ / 64 ГБ встроенной памяти + microSD / 3G / 4G / Wi-Fi / Bluetooth 5.0 / основная камера 8 Мп, фронтальная - 5 Мп / GPS / ГЛОНАСС / Android 10.0 (Q) / 467 г / розовый`,
-                    price: "16 899 ₴",
+                    price: "16899 ₴",
                 },
 
             ],
@@ -207,37 +207,37 @@ const productItems = [
                     img: "images/laptop/acer7.jfif",
                     name: "Ноутбук Acer Aspire 7 A715-42G-R3EZ",
                     description: `Экран 15.6" IPS (1920x1080) Full HD, матовый / AMD Ryzen 5 5500U (2.1 - 4.0 ГГц) / RAM 16 ГБ / SSD 512 ГБ / nVidia GeForce GTX 1650, 4 ГБ / без ОД / LAN / Wi-Fi / Bluetooth / веб-камера / без ОС / 2.15 кг / черный`,
-                    price: "30 899 ₴",
+                    price: "30899 ₴",
                 },
                 {
                     img: "images/laptop/acerAspire.jfif",
                     name: "Ноутбук Acer Aspire 7 A715-42G-R7BK",
                     description: `Экран 15.6" IPS (1920x1080) Full HD, матовый / AMD Ryzen 3 5300U (2.6 - 3.8 ГГц) / RAM 8 ГБ / SSD 512 ГБ / AMD Radeon RX 640, 2 ГБ / без ОД / LAN / Wi-Fi / Bluetooth / веб-камера / без ОС / 1.77 кг / серебристый`,
-                    price: "35 899 ₴",
+                    price: "35899 ₴",
                 },
                 {
                     img: "images/laptop/appleM13.jfif",
                     name: "Ноутбук Apple MacBook Air 13",
                     description: `Экран 13.3" Retina (2560x1600) WQXGA, глянцевый / Apple M1 / RAM 8 ГБ / SSD 256 ГБ / Apple M1 Graphics / Wi-Fi / Bluetooth / macOS Big Sur / 1.29 кг / серебристый`,
-                    price: "61 899 ₴",
+                    price: "61899 ₴",
                 },
                 {
                     img: "images/laptop/applePro16.jfif",
                     name: "Ноутбук Apple MacBook Pro 16 M1 Pro 512GB",
                     description: `Экран 15.6" IPS (2560x1440) WQHD 165 Гц, матовый / AMD Ryzen 7 6800H (3.2 - 4.7 ГГц) / RAM 32 ГБ / SSD 1 ТБ / nVidia GeForce RTX 3060, 6 ГБ / без ОД / LAN / Wi-Fi / Bluetooth / веб-камера / без ОС / 2.4 кг / серый`,
-                    price: "45 899 ₴",
+                    price: "45899 ₴",
                 },
                 {
                     img: "images/laptop/asusTUF.jfif",
                     name: "Ноутбук ASUS TUF Gaming",
                     description: `Экран 15.6" IPS (1920x1080) Full HD, Multi-touch, глянцевый / AMD Ryzen 7 5700U (1.8 — 4.3 ГГц) / RAM 16 ГБ / SSD 512 ГБ / nVidia GeForce MX450, 2 ГБ / без ОД / Wi-Fi / Bluetooth / веб-камера / без ОС / 1.9 кг / серый / стилус`,
-                    price: "30 899 ₴",
+                    price: "30899 ₴",
                 },
                 {
                     img: "images/laptop/lenovoIdeaPad.jfif",
                     name: "Ноутбук Lenovo IdeaPad 3 15ALC6",
                     description: `Экран 15.6" IPS (1920x1080) Full HD, матовый / AMD Ryzen 5 5500U (2.1 - 4.0 ГГц) / RAM 16 ГБ / SSD 512 ГБ / nVidia GeForce GTX 1650, 4 ГБ / без ОД / LAN / Wi-Fi / Bluetooth / веб-камера / без ОС / 2.15 кг / черный`,
-                    price: "23 899 ₴",
+                    price: "23899 ₴",
                 },
 
             ],
@@ -249,6 +249,8 @@ const productItems = [
 const divFlex = document.querySelector(".d-flex");
 const modalContainer = document.querySelector(".modal-container");
 const modal = document.querySelector(".modal");
+const form = document.getElementById("form");
+const button = document.getElementById("button");
 
 function renderProduct(productItems) {
     divFlex.innerHTML = "";
@@ -290,6 +292,7 @@ function renderProduct(productItems) {
                 div.append(h3);
                 main.append(div);
 
+                    console.log(item);
 
         div.addEventListener("click", () => {
                 card.innerHTML = "";
@@ -314,29 +317,156 @@ function renderProduct(productItems) {
 
                 card.append(cardContainer);
 
+                // price.addEventListener("click", () => {
+                //     const p = document.createElement("p");
+                //     p.innerText = "Товар куплено! Дякуємо за ваш вибір!";
+                //     modal.append(p);
+                //     modalContainer.classList.remove("d-none");
+                //     main.classList.add("d-none");
+                //     card.classList.add("d-none");
+                //
+                //     function deleteModal() {
+                //          window.setTimeout(deleteModalContainer, 2000);
+                //     }
+                //
+                //     function deleteModalContainer() {
+                //         modalContainer.classList.add("d-none");
+                //         p.remove();
+                //         renderProduct(productItems);
+                //     }
+                //     deleteModal();
+                // })
 
                 price.addEventListener("click", () => {
-                    const p = document.createElement("p");
-                    p.innerText = "Товар куплено! Дякуємо за ваш вибір!";
-                    modal.append(p);
-                    modalContainer.classList.remove("d-none");
-                    main.classList.add("d-none");
-                    card.classList.add("d-none");
+                    // debugger;
 
-                    function deleteModal() {
-                         window.setTimeout(deletModalContainer, 2000);
-                    }
+                    form.reset();
+                    form.classList.remove("d-none");
 
-                    function deletModalContainer() {
-                        modalContainer.classList.add("d-none");
-                        p.remove();
-                        renderProduct(productItems);
-                    }
-                    deleteModal();
+
+                    card.append(form);
+
+                    form.addEventListener("submit", e => {
+                        e.preventDefault();
+
+
+                        const userName = document.querySelector("#name");
+                        const userNameValue = userName.value;
+                        const NP = document.querySelector("#sklad");
+                        const NPValue = NP.value;
+                        const count = document.querySelector("#count");
+                        const countValue = count.value;
+
+                        const isRequired = value => value === '' ? false : true;
+
+                        function showError(input, message) {
+
+                            const formField = input.parentElement;
+
+                            formField.classList.remove("success");
+                            formField.classList.add("error");
+
+                            const errorInput = formField.querySelector("small");
+                            errorInput.textContent = message;
+
+                        }
+
+                        function showSuccess(input) {
+                            // debugger;
+
+                            const formField = input.parentElement;
+
+                            formField.classList.remove("error");
+                            formField.classList.add("success");
+
+                            const error = formField.querySelector("small");
+                            error.textContent = "";
+
+                        }
+                        function checkInput(input, value) {
+                            // debugger;
+                            let valid = false;
+                            if(!isRequired(value)) {
+                                showError(input, `The field cannot be blank` )
+                            } else {
+                                showSuccess(input);
+                                valid = true;
+                            }
+                            return valid;
+                        }
+
+                        let isUsernameValid = checkInput(userName, userNameValue);
+                        let isNPValid = checkInput(NP, NPValue);
+                        let isCountValid = checkInput(count, countValue);
+                        let isFormValid = isUsernameValid && isNPValid && isCountValid;
+
+                        if (isFormValid) {
+                            form.classList.add("d-none");
+
+                            const delivery = document.getElementById("sklad").value;
+                            let count = document.getElementById("count").value;
+
+
+
+                            const fieldForTable = {
+                                name: "Ваше замовлення",
+                                delivery: "Товар буде доставлений до НП",
+                                count: "В кількості",
+                                sum: "Вартість вашого замовлення",
+                            }
+
+                            const obj = {
+                                name: item.name,
+                                delivery: delivery,
+                                count: count,
+                                sum: `${count *= parseFloat(item.price)} ₴`,
+                            }
+                            console.log(item.price);
+                            console.log(count);
+
+                            main.classList.add("d-none");
+                            card.classList.add("d-none");
+                            modalContainer.classList.remove("d-none");
+
+
+                            function renderAfterClick(obj) {
+                                modal.innerHTML = "";
+                                const TRs = [];
+                                for(let key in fieldForTable) {
+                                    TRs.push(`
+                                    <tr>
+                                        <td>${fieldForTable[key]}</td>
+                                        <td>${obj[key]}</td>
+                                    </tr>`)
+                                }
+
+                                modal.innerHTML = `<table>${TRs.join("")}</table>`;
+                            }
+                            renderAfterClick(obj);
+
+
+                            function deleteModal() {
+                                window.setTimeout(deleteModalContainer, 5000);
+                            }
+
+                            function deleteModalContainer() {
+                                modalContainer.classList.add("d-none");
+                                renderProduct(productItems);
+
+                            }
+                            deleteModal();
+                        } else {
+                            alert("Ви не заповнили необхідні поля");
+                             isUsernameValid = checkInput(userName, userNameValue);
+                             isNPValid = checkInput(NP, NPValue);
+                             isCountValid = checkInput(count, countValue);
+                        }
+
+                    })
 
                 })
 
-            })
+        })
             })
 
         })
